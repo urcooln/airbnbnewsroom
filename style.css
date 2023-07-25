@@ -1,0 +1,35 @@
+.hero_text{
+  text-decoration:none;
+  color: #222;
+}
+.hero_text:hover{
+  color: #222;
+}
+.meta{
+  font-size: 14px;
+  color: #717171;
+}
+.btn-gradient {
+  background-image: linear-gradient(to right, #e61e4d, #d70466);
+  color: #fff;
+  /* Additional styles for the button */
+  border-style: none;
+}
+.aspectRatioBox {
+  padding-top: calc(2 / 3 * 100%); /* aspect ratio 3:2 */
+  background-size: cover;
+  background-position: center;
+}
+.scrollableRow{
+  overflow-x: scroll;
+  margin-left: -24px;
+  margin-right: -24px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.eco_body{
+  padding:1.25rem;
+}
+.ecopop_card{
+  padding-bottom: 50px;
+}
